@@ -8,8 +8,10 @@ This project represents a complex business process aimed at providing a comprehe
 
 ## Accessing the Project
 
-- **Web Page**: You can view the HTML format of the project by visiting [the Github.io Page](https://nicolasquiroga.github.io/Curso_BPMN_TPF/).
-- **PDF File**: You can download the PDF format of the project by clicking [here](https://github.com/nicolasquiroga/Curso_BPMN_TPF/blob/main/pdf/N1%20-%20Del%20pedido%20de%20placas%20a%20la%20entrega%20-%20V4.1.pdf).
+- **Web Page**: You can view the HTML format of the project by visiting <a href="https://nicolasquiroga.github.io/Curso_BPMN_TPF/" target="_blank">the Github.io Page</a>.
+- **PDF File**: You can download the PDF format of the project by clicking <a href="https://github.com/nicolasquiroga/Curso_BPMN_TPF/blob/main/pdf/N1%20-%20Del%20pedido%20de%20placas%20a%20la%20entrega%20-%20V4.1.pdf" target="_blank">here</a>.
+
+
 
 ## Project Structure
 
@@ -40,8 +42,8 @@ Este proyecto representa un proceso de negocio complejo con el objetivo de propo
 
 ## Acceso al Proyecto
 
-- **Página Web**: Puedes ver el formato HTML del proyecto visitando [la página en Github.io](https://nicolasquiroga.github.io/Curso_BPMN_TPF/).
-- **Archivo PDF**: Puedes descargar el formato PDF del proyecto haciendo clic [aquí](https://github.com/nicolasquiroga/Curso_BPMN_TPF/blob/main/pdf/N1%20-%20Del%20pedido%20de%20placas%20a%20la%20entrega%20-%20V4.1.pdf).
+- **Página Web**: Puedes ver el formato HTML del proyecto visitando <a href="https://nicolasquiroga.github.io/Curso_BPMN_TPF/" target="_blank">la página en Github.io</a>.
+- **Archivo PDF**: Puedes descargar el formato PDF del proyecto haciendo clic <a href="https://github.com/nicolasquiroga/Curso_BPMN_TPF/blob/main/pdf/N1%20-%20Del%20pedido%20de%20placas%20a%20la%20entrega%20-%20V4.1.pdf" target="_blank">aquí</a>.
 
 ## Estructura del Proyecto
 
